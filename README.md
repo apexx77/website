@@ -5,11 +5,11 @@
 
 <div align="center" style="padding-top:20px;">
 
-<img src="https://github.com/apexx77/Registration-Tile/blob/master/img/html-5.png" width=100px style="padding-right:100px;">
+<img src="https://github.com/apexx77/website/blob/master/img/html-5.png" width=100px style="padding-right:100px;">
 
-<img src="https://github.com/apexx77/Registration-Tile/blob/master/img/css.png" width=100px style="padding-right:100px;">
+<img src="https://github.com/apexx77/website/blob/master/img/css.png" width=100px style="padding-right:100px;">
 
-<img src="https://github.com/apexx77/Registration-Tile/blob/master/img/javascript.png" width=100px style="padding-right:100px;">
+<img src="https://github.com/apexx77/website/blob/master/img/javascript.png" width=100px style="padding-right:100px;">
 
 </div>
 
